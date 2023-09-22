@@ -1,0 +1,62 @@
+.button {
+    padding: 12px 24px;
+    border-radius: 5px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button p {
+    font-weight: 700;
+}
+
+.alert {
+    background-color: var(--alert);
+}
+.alert p {
+    color: var(--text-on-primary);
+}
+
+.warning {
+    background-color: var(--primary-variant-judge);
+}
+.warning p {
+    color: var(--text-on-primary);
+}
+
+.online {
+    background-color: var(--online);
+}
+.online p {
+    color: var(--basic-on-primary);
+}
+
+.success {
+    background-color: var(--success);
+}
+.success p {
+    color: var(--basic-on-primary);
+}
+
+.info {
+    background-color: var(--info);
+}
+.info p {
+    color: var(--text-black);
+}
+
+.clear {
+    background-color: transparent;
+    padding: 0;
+}
+
+.clear-underline {
+    background-color: transparent;
+    padding: 0;
+}
+
+.clear-underline p {
+    text-decoration: underline;
+    font-weight: 400;
+}

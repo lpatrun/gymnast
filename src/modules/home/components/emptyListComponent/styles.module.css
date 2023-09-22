@@ -1,0 +1,17 @@
+.emptyList {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.emptyListDescription {
+    color: var(--text-secondary);
+}
+
+.placeholderImg {
+    width: 80px;
+    height: 80px;
+}
