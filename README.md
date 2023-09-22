@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+available at:
+https://lpatrun.github.io/gymnast/
+
 clone project:
 
 ```sh
